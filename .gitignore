@@ -1,0 +1,79 @@
+# Commons
+build/
+bin/
+dist/
+nbdist/
+out/
+target/
+logs/
+*.log
+*.pid
+*.pid.lock
+*.seed
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# Python
+__pycache__/
+venv/
+*egg-info/
+*.py[cod]
+*.spec
+.python-version
+.venv
+
+# Node
+node_modules/
+jspm_packages/
+web_modules/
+npm-debug.log
+yarn-error.log
+*.tsbuildinfo
+.npm
+
+# Miscellaneous
+.sass-cache/
+**/.angular/cache
+connect.lock
+coverage
+libpeerconnection.log
+testem.log
+typings
+
+# IDE
+tmp/
+.idea/
+.project/
+.settings/
+.classpath/
+.recommenders/
+.vscode/
+.vscode-test/
+.history/
+*.iml
+*.iws
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.pydevproject
+.cproject
+.project
+.metadata
+.loadpath
+.buildpath
+
+# System
+.DS_Store
+Thumbs.db
+
+# Local
+local.properties
+local.ini
+local.json
+.env
